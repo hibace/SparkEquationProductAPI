@@ -1,5 +1,5 @@
 # SparkEquationProductAPI
-SparkEquationProductAPI - .net core webapi
+SparkEquationProductAPI - .net core webapi with Swagger-UI
 
 
 Backend engineer trial
